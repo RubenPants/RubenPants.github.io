@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hello!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "image": "img/me.jpeg"
+  },
+  {
+    "title": "Education",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "image": "img/education.jpg"
+  },
+  {
+    "title": "Experience",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "image": "img/experience.jpg"
+  },
+  {
+    "title": "Projects",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "image": "img/programming.jpg"
+  },
+  {
+    "title": "Contact",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "image": "img/contact.jpg"
+  }
+]

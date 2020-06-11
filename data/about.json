@@ -1,27 +1,27 @@
 [
   {
     "title": "Hello!",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "text": " I am <b>Ruben Broekx</b>, a <b>{{age}}</b>-year-old computer geek from Belgium. I am passionate about <b>Artificial Intelligence</b> and eager to learn, which is why I like to spend my time usefully with as many learning opportunities as possible. This led to several working experiences, as well as a handful of side projects that I've done in my spare time.\n<br><br>\nDespite my (relatively) young age, I brought several <b>projects</b> to a successful conclusion. To introduce myself to new concepts within the field of computer science, these projects often vary in the topic as well as implementation tools. Since the last two years, my main focus is on Artificial Intelligence. What I find interesting about this subject is its active community and the progress made in recent decades.\n<br><br>\nThis website not only functions as an introduction to myself, but also to showcase my projects. On <b>this page</b>, you'll find more information about myself. The <b>\"Projects\" page</b>, on the other hand, gives an overview of all my public projects found on GitHub. The <b>\"Curriculum Vitae\" link</b> found in the header directs you to my CV, which depicts a more formal view of who I am.",
     "image": "img/me.jpeg"
   },
   {
     "title": "Education",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "text": "<h3>Master</h3>\n<p>\nI'm currently in the last year of the Computer Science master at the KUL, with a <b>major</b> in Artificial Intelligence. My <b>thesis</b> investigates how to use recurrent units - specifically the Gated Recurrent Unit - in neuroevolution.\n</p>\n<h3>Bachelor</h3>\n<p>\nI also did my bachelor at the KUL, following a mixed Bachelor of <b>Computer Science</b> and <b>Electrical Engineering</b>.\n</p>\n<h3>High School</h3>\nI went to Don Bosco Hechtel during my high school times. In here, I followed <b>mathematics sciences</b>, with eight hours of math per week.",
     "image": "img/education.jpg"
   },
   {
-    "title": "Experience",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
+    "title": "Work Experience",
+    "text": "Although most of my time is spent on my education, I try to get a taste of relevant working experience where possible. This is because I learn most when surrounded by people that are experts in the field who can answer each of my questions.\n<br><br>\nMy most notable working experience is at <b>Nokia Bell Labs</b> (Antwerp), which was during a nine-week internship. During this period, I developed a <b>code summarization artificial neural network</b>. The task to solve was to create a single sentence summary of a small Python code snippet. Throughout this internship, I gained knowledge about recurrent neural networks, natural language processing tasks, and the Keras framework.\n<br><br>\nI pursued <b>two student jobs at the KUL</b>, this throughout my master's programme. In the first year of my master, I helped to assist the Bachelor's thesis. During the second year, I was a teaching assistant for an informatics course which thaught first bachelors students the fundamentals of programming.\n<br><br>\nDuring the summer vacation between my Bachelor and master, I worked at <b>SoundTalks NV</b> as a Python <b>backend developer</b>, using the Django REST Framework. This was the first working experience I had related to computer science.",
     "image": "img/experience.jpg"
   },
   {
-    "title": "Projects",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
-    "image": "img/programming.jpg"
+    "title": "Achievements",
+    "text": "My proudest achievement thus far is a <b>perfect score</b> (20/20) on my Bachelor's thesis. This result allowed me to work as a teaching assistant for the KUL to help assist the upcoming Bachelor's thesis.",
+    "image": "img/achievement.jpg"
   },
   {
-    "title": "Contact",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ultrices hendrerit. Nam lobortis egestas fermentum. Etiam euismod vulputate est at tempus. Donec molestie lorem vitae dui euismod, nec laoreet nunc fringilla. Fusce et mollis erat, eget maximus mauris. Proin consequat ante et enim venenatis tempus. Proin id tincidunt enim. Quisque cursus sed ipsum sit amet auctor. Sed ultricies arcu eu dolor tincidunt elementum. Suspendisse hendrerit purus turpis, et semper mi fringilla nec. Proin eget dapibus lectus. Sed sed metus vel nunc vulputate sagittis nec ac libero. Nulla facilisi.",
-    "image": "img/contact.jpg"
+    "title": "Projects",
+    "text": "In my spare time, I don't like to sit still. As stated earlier, I'm eager to learn new things, which is why I often start a new side-project. These projects vary both in their topic (AI, simple programming algorithms, or even this website you're currently on), using an extensive catalogue of programming languages and tools. More information on each of these projects is found on the <b>\"Projects\" page<b/>.",
+    "image": "img/programming.jpg"
   }
 ]

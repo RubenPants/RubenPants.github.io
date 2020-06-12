@@ -1,67 +1,18 @@
 [
   {
-    "name": "ABC Job123",
-    "id": 1,
-    "text": "This is some example text"
+    "title": "Title",
+    "text": "Description",
+    "keywords": "Keywords",
+    "date": "Date",
+    "url": "url",
+    "image": "image-path"
   },
   {
-    "name": "CDE Job123",
-    "id": 2,
-    "text": "This is some example text, which is very long, a vast part longer than that of the others, long indeed"
-  },
-  {
-    "name": "FGH Job123",
-    "id": 3,
-    "text": "This is some example text"
-  },
-  {
-    "name": "LMN Job123",
-    "id": 4,
-    "text": "This is some example text"
-  },
-  {
-    "name": "OPQ Job123",
-    "id": 5,
-    "text": "This is some example text"
-  },
-  {
-    "name": "QRS Job123",
-    "id": 6,
-    "text": "This is some example text"
-  },
-  {
-    "name": "TUV Job123",
-    "id": 7,
-    "text": "This is some example text"
-  },
-  {
-    "name": "WXY Job123",
-    "id": 8,
-    "text": "This is some example text"
-  },
-  {
-    "name": "ZZZ Job123",
-    "id": 9,
-    "text": "This is some example text"
-  },
-  {
-    "name": "ZZZ Job567",
-    "id": 10,
-    "text": "This is some example text"
-  },
-  {
-    "name": "ZaZZ Job999",
-    "id": 11,
-    "text": "This is some example text"
-  },
-  {
-    "name": "ZZZ Journey",
-    "id": 12,
-    "text": "This is some example text"
-  },
-  {
-    "name": "ZZZ Indigo",
-    "id": 13,
-    "text": "This is some example text"
+    "title": "Asteroids",
+    "text": "This project is an own implementation of the game Asteroids. This project consists out of two game-modes: one where you have to fight enemies and one where you have to destroy all asteroids.",
+    "keywords": "Java, Object Oriented Programming, Game",
+    "date": "2017-06-01",
+    "url": "https://github.com/RubenPants/Asteroids",
+    "image": "img/projects/asteroids.png"
   }
 ]

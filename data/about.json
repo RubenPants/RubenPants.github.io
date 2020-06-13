@@ -10,7 +10,7 @@
     "image": "img/education.jpg"
   },
   {
-    "title": "Work Experience",
+    "title": "Experience",
     "text": "<p>Although most of my time is spent on my education, I try to get a taste of relevant working experience where possible. This is because I learn most when surrounded by people that are experts in the field who can answer each of my questions.</p>\n<h2>Nokia Bell Labs</h2>\n<p>My most notable working experience is at Nokia Bell Labs (Antwerp), which was during a nine-week internship. During this period, I developed a <b>code summarization artificial neural network</b>. The task to solve was to create a single sentence summary of a small Python code snippet. Throughout this internship, I gained knowledge about recurrent neural networks, natural language processing tasks, and the Keras framework.</p>\n<h2>KU Leuven</h2>\n<p>I pursued two student jobs - both as a <b>teaching assistant</b> - at the KUL, this throughout my master's programme. In the first year of my master, I helped to assist the Bachelor's thesis. During the second year, I was a teaching assistant for an informatics course which taught first bachelors students the fundamentals of programming.</p>\n<h2>SoundTalks NV</h2>\nDuring the summer vacation between my Bachelor and master, I worked at SoundTalks NV as a Python <b>back end developer</b>, using the Django REST Framework. This was the first working experience I had related to computer science.",
     "image": "img/experience.jpg"
   },

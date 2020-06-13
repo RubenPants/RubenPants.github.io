@@ -1,17 +1,81 @@
 [
   {
-    "title": "Title",
-    "text": "Description",
-    "keywords": "Keywords",
-    "date": "Date",
-    "url": "url",
-    "image": "image-path"
+    "title": "PersonalWebsite",
+    "text": "This repository contains the code of the website you're currently on. This website is my very first step in the world of front end developing.",
+    "keywords": "Front End, Website, BootstrapVue",
+    "date": "2020-06",
+    "url": "https://github.com/RubenPants/PersonalWebsite",
+    "image": "img/projects/website.png"
+  },
+  {
+    "title": "TransferLearningKeras",
+    "text": "A walk-through in Transfer Learning, using the Keras framework. This was one of my earlier ML projects, in which I introduced myself to the concepts of Transfer Learning, Keras, and Convolutional Neural Networks.",
+    "keywords": "Python, Keras, ML, CNN",
+    "date": "2019-09",
+    "url": "https://github.com/RubenPants/TransferLearningKerasDemo",
+    "image": "img/projects/transfer.gif"
+  },
+  {
+    "title": "GifCreator",
+    "text": "A short code snippet that creates GIFs by concatenating images using Python's Pillow library. I created this project to help with the visualisations of the <i>TransferLearningKeras</i> project.",
+    "keywords": "Python, GIF, Pillow",
+    "date": "2019-08",
+    "url": "https://github.com/RubenPants/GifCreator",
+    "image": "img/projects/gifgif.gif"
+  },
+  {
+    "title": "Toledo Lecture Downloader",
+    "text": "Downloading web-videos by intervening the HTTP calls.",
+    "keywords": "Java, HTTP, Networking",
+    "date": "2018-12",
+    "url": "https://github.com/RubenPants/Toledo-Lecture-Downloader",
+    "image": "img/projects/video_downloader.png"
+  },
+  {
+    "title": "ChessBot",
+    "text": "This project will provide a Python bot that can play chess using pyautogui and cv2. The chessbot utilises the minimax-algorithm for its decision making. I created this project to brush up my Python skills during the summer vacation.",
+    "keywords": "Python, Chess, Bot",
+    "date": "2018-08",
+    "url": "https://github.com/RubenPants/ChessBot",
+    "image": "img/projects/chess.png"
+  },
+  {
+    "title": "DroneSimulation-Part4",
+    "text": "A simulation of a multiple drones which will fly in a three dimensional virtual testbed. The main object of the drones is to bring packages from one airport to another as fast as possible. There will be multiple airports in the virtual testbed and multiple drones flying from one airport to the other to deliver packages. This project was my <b>Bachelor's thesis</b>, which resulted in a perfect (20/20) score.",
+    "keywords": "Java, Drone Simulator",
+    "date": "2018-06",
+    "url": "https://github.com/RubenPants/DroneSimulation-Part4",
+    "image": "img/projects/peno4.png"
+  },
+  {
+    "title": "DroneSimulation-Part3",
+    "text": "A simulation of a multiple drones which will fly in a three dimensional virtual testbed. The main object of the drones is to bring packages from one airport to another as fast as possible. This (intermediary) project will demonstrate a worst case example of the next project (DroneSimulation-Part4) of a series of projects.",
+    "keywords": "Java, Drone Simulator",
+    "date": "2018-05",
+    "url": "https://github.com/RubenPants/DroneSimulation-Part3",
+    "image": "img/projects/peno3.png"
+  },
+  {
+    "title": "DroneSimulation-Part2",
+    "text": "A simulation of a drone which will fly in a three dimensional virtual testbed. An array of unit cubes will be loaded inside the virtual testbed, the main objective of the drone is to collect all cubes as fast as possible (no order specified). No difference in task compared to DroneSimulation-Part1, but a significant difference in implementation and performance.",
+    "keywords": "Java, Drone Simulator",
+    "date": "2018-03",
+    "url": "https://github.com/RubenPants/DroneSimulation-Part2",
+    "image": "img/projects/peno1.png"
+  },
+  {
+    "title": "DroneSimulation-Part1",
+    "text": "A simulation of a drone which will fly in a three dimensional virtual testbed. An array of unit cubes will be loaded inside the virtual testbed, the main objective of the drone is to collect all cubes as fast as possible (no order specified).",
+    "keywords": "Java, Drone Simulator",
+    "date": "2017-12",
+    "url": "https://github.com/RubenPants/DroneSimulation-Part1",
+    "image": "img/projects/peno1.png"
   },
   {
     "title": "Asteroids",
-    "text": "This project is an own implementation of the game Asteroids. This project consists out of two game-modes: one where you have to fight enemies and one where you have to destroy all asteroids.",
-    "keywords": "Java, Object Oriented Programming, Game",
-    "date": "2017-06-01",
+    "text": "This project is an own implementation of the game Asteroids. This project consists out of two game-modes: one where you have to fight enemies and one where you have to destroy all asteroids. This was my <b>first Java project</b>.",
+    "keywords": "Java, Game",
+    "date": "2017-06",
     "url": "https://github.com/RubenPants/Asteroids",
     "image": "img/projects/asteroids.png"
   }

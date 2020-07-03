@@ -8,6 +8,14 @@
     "image": "img/projects/website.png"
   },
   {
+    "title": "TravelingSalesmanProblem",
+    "text": "Implementation of a Genetic Algorithm in MatLab to propose solutions to various environments of the well-known Traveling Salesman Problem. This project was a school project.",
+    "keywords": "MatLab, GA, TSP",
+    "date": "2020-01",
+    "url": "https://github.com/RubenPants/TravelingSalesmanProblem",
+    "image": "img/projects/tsp.png"
+  },
+  {
     "title": "TransferLearningKeras",
     "text": "A walk-through in Transfer Learning, using the Keras framework. This was one of my earlier ML projects, in which I introduced myself to the concepts of Transfer Learning, Keras, and Convolutional Neural Networks.",
     "keywords": "Python, Keras, ML, CNN",

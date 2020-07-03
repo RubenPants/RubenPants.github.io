@@ -12,7 +12,7 @@
     "text": "A walk-through in Transfer Learning, using the Keras framework. This was one of my earlier ML projects, in which I introduced myself to the concepts of Transfer Learning, Keras, and Convolutional Neural Networks.",
     "keywords": "Python, Keras, ML, CNN",
     "date": "2019-09",
-    "url": "https://github.com/RubenPants/TransferLearningKerasDemo",
+    "url": "https://rubenpants.github.io/TransferLearningKerasDemo",
     "image": "img/projects/transfer.gif"
   },
   {

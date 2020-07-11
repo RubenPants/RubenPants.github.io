@@ -1,5 +1,13 @@
 [
   {
+    "title": "EvolvableRNN",
+    "text": "This project was made during my Master's thesis which evolved Recurrent Neural Networks (RNN) via an evolutionary algorithm called NeuroEvolution of Augmenting Topologies (NEAT).",
+    "keywords": "NeuroEvolution, RNN, GRU, Python",
+    "date": "2020-07",
+    "url": "https://github.com/RubenPants/EvolvableRNN",
+    "image": "img/projects/neat_gru.png"
+  },
+  {
     "title": "PersonalWebsite",
     "text": "This repository contains the code of the website you're currently on. This website is my very first step in the world of front end developing.",
     "keywords": "Front End, BootstrapVue",

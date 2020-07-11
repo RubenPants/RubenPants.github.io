@@ -16,6 +16,14 @@
     "image": "img/projects/website.png"
   },
   {
+    "title": "RobotSimulator2D",
+    "text": "A semi-completed project that paved the way for the EvolvableRNN project. Due to a change in focus in my Master's thesis, I abolished this project. However, it still contains some interesting code, which I left it on my GitHub.",
+    "keywords": "NeuroEvolution, Python",
+    "date": "2020-03",
+    "url": "https://github.com/RubenPants/RobotSimulator2D",
+    "image": "img/projects/robot_simulator.png"
+  },
+  {
     "title": "TravelingSalesmanProblem",
     "text": "Implementation of a Genetic Algorithm in MatLab to propose solutions to various environments of the well-known Traveling Salesman Problem. This project was a school project.",
     "keywords": "MatLab, GA, TSP",

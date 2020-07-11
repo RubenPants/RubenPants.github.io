@@ -3,7 +3,7 @@
     "title": "EvolvableRNN",
     "text": "This project was made during my Master's thesis which evolved Recurrent Neural Networks (RNN) via an evolutionary algorithm called NeuroEvolution of Augmenting Topologies (NEAT).",
     "keywords": "NeuroEvolution, RNN, GRU, Python",
-    "date": "2020-07",
+    "date": "2020-06",
     "url": "https://github.com/RubenPants/EvolvableRNN",
     "image": "img/projects/neat_gru.png"
   },
@@ -22,6 +22,14 @@
     "date": "2020-03",
     "url": "https://github.com/RubenPants/RobotSimulator2D",
     "image": "img/projects/robot_simulator.png"
+  },
+  {
+    "title": "TransPoemer",
+    "text": "This repository implements a Transformer based neural network that transforms regular text into a poem (limerick).",
+    "keywords": "Transformer, Python",
+    "date": "2020-03",
+    "url": "https://github.com/RubenPants/TransPoemer",
+    "image": "img/projects/transformer.png"
   },
   {
     "title": "TravelingSalesmanProblem",

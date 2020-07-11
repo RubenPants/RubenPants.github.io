@@ -6,7 +6,7 @@
   },
   {
     "title": "Education",
-    "text": "<h3>Master</h3>\n<p>\nI'm currently in the last year of the Computer Science master at the KUL, with a <b>major</b> in Artificial Intelligence. My <b>thesis</b> investigates how to use recurrent units - specifically the Gated Recurrent Unit - in neuroevolution.\n</p>\n<h3>Bachelor</h3>\n<p>\nI also did my bachelor at the KUL, following a mixed Bachelor of <b>Computer Science</b> and <b>Electrical Engineering</b>.\n</p>\n<h3>High School</h3>\nI went to Don Bosco Hechtel during my high school times. In here, I followed <b>mathematics sciences</b>, with eight hours of math per week.",
+    "text": "<h3>Master</h3>\n<p>\nI did the master of Computer Science at the KU Leuven, with a <b>major</b> in Artificial Intelligence, which I finished with a Magna Cum Laude. My <b>thesis</b>, for which I scored 92.5%, investigated how to use recurrent units (specifically the Gated Recurrent Unit) in neuroevolution.\n</p>\n<h3>Bachelor</h3>\n<p>\nI also did my bachelor at the KU Leuven, following a mixed Bachelor of <b>Computer Science</b> and <b>Electrical Engineering</b>, which I finished with a Cum Laude. My Bachelor's thesis was a project about a distributed package delivery system (see Projects), for which I achieved a score of 100%.\n</p>\n<h3>High School</h3>\nI went to Don Bosco Hechtel during my high school times. In here, I followed <b>mathematics sciences</b>, with eight hours of math per week.",
     "image": "img/education.jpg"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "title": "Achievements",
-    "text": "My proudest achievement thus far is a <b>perfect score</b> (20/20) on my <b>Bachelor's thesis</b>. This result allowed me to work as a teaching assistant for the KUL to help assist the upcoming Bachelor's thesis.",
+    "text": "My proudest achievement thus far is graduating with a <b>Magna Cum Laude</b> from the Master program of Computer Science - Artificial Intelligence at the KU Leuven.<br><br>A second achievement for which I'm proud of relates to the previous, which is the score of 92.5% I obtained on my <b>Master's thesis</b>.<br><br>A last notable achievement I want to mention is the perfect score (100%) I obtained on my <b>Bachelor's thesis</b>. This result allowed me to work as a teaching assistant for the KUL to help assist the upcoming Bachelor's thesis.",
     "image": "img/achievement.jpg"
   },
   {

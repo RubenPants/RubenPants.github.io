@@ -1,114 +1,181 @@
 [
-  {
-    "title": "EvolvableRNN",
-    "text": "This project was made during my Master's thesis which evolved Recurrent Neural Networks (RNN) via an evolutionary algorithm called NeuroEvolution of Augmenting Topologies (NEAT).",
-    "keywords": "NeuroEvolution, RNN, GRU, Python",
-    "date": "2020-06",
-    "url": "https://github.com/RubenPants/EvolvableRNN",
-    "image": "img/projects/neat_gru.png"
-  },
-  {
-    "title": "PersonalWebsite",
-    "text": "This repository contains the code of the website you're currently on. This website is my very first step in the world of front end developing.",
-    "keywords": "Front End, BootstrapVue",
-    "date": "2020-06",
-    "url": "https://github.com/RubenPants/PersonalWebsite",
-    "image": "img/projects/website.png"
-  },
-  {
-    "title": "RobotSimulator2D",
-    "text": "A semi-completed project that paved the way for the EvolvableRNN project. Due to a change in focus in my Master's thesis, I abolished this project. However, it still contains some interesting code, which I left it on my GitHub.",
-    "keywords": "NeuroEvolution, Python",
-    "date": "2020-03",
-    "url": "https://github.com/RubenPants/RobotSimulator2D",
-    "image": "img/projects/robot_simulator.png"
-  },
-  {
-    "title": "TransPoemer",
-    "text": "This repository implements a Transformer based neural network that transforms regular text into a poem (limerick).",
-    "keywords": "Transformer, Python",
-    "date": "2020-03",
-    "url": "https://github.com/RubenPants/TransPoemer",
-    "image": "img/projects/transformer.png"
-  },
-  {
-    "title": "TravelingSalesmanProblem",
-    "text": "Implementation of a Genetic Algorithm in MatLab to propose solutions to various environments of the well-known Traveling Salesman Problem. This project was a school project.",
-    "keywords": "MatLab, GA, TSP",
-    "date": "2020-01",
-    "url": "https://github.com/RubenPants/TravelingSalesmanProblem",
-    "image": "img/projects/tsp.png"
-  },
-  {
-    "title": "TransferLearningKeras",
-    "text": "A walk-through in Transfer Learning, using the Keras framework. This was one of my earlier ML projects, in which I introduced myself to the concepts of Transfer Learning, Keras, and Convolutional Neural Networks.",
-    "keywords": "Python, Keras, ML, CNN",
-    "date": "2019-09",
-    "url": "https://github.com/RubenPants/TransferLearningKerasDemo",
-    "image": "img/projects/transfer.gif"
-  },
-  {
-    "title": "GifCreator",
-    "text": "A short code snippet that creates GIFs by concatenating images using Python's Pillow library. I created this project to help with the visualisations of the <i>TransferLearningKeras</i> project.",
-    "keywords": "Python, GIF, Pillow",
-    "date": "2019-08",
-    "url": "https://github.com/RubenPants/GifCreator",
-    "image": "img/projects/gifgif.gif"
-  },
-  {
-    "title": "Toledo Lecture Downloader",
-    "text": "Downloading web-videos by intervening the HTTP calls.",
-    "keywords": "Java, HTTP, Networking",
-    "date": "2018-12",
-    "url": "https://github.com/RubenPants/Toledo-Lecture-Downloader",
-    "image": "img/projects/video_downloader.png"
-  },
-  {
-    "title": "ChessBot",
-    "text": "This project will provide a Python bot that can play chess using pyautogui and cv2. The chessbot utilises the minimax-algorithm for its decision making. I created this project to brush up my Python skills during the summer vacation.",
-    "keywords": "Python, Chess, Bot",
-    "date": "2018-08",
-    "url": "https://github.com/RubenPants/ChessBot",
-    "image": "img/projects/chess.png"
-  },
-  {
-    "title": "DroneSimulation-Part4",
-    "text": "A simulation of a multiple drones which will fly in a three dimensional virtual testbed. The main object of the drones is to bring packages from one airport to another as fast as possible. There will be multiple airports in the virtual testbed and multiple drones flying from one airport to the other to deliver packages. This project was my <b>Bachelor's thesis</b>, which resulted in a perfect (20/20) score.",
-    "keywords": "Java, Drone Simulator",
-    "date": "2018-06",
-    "url": "https://github.com/RubenPants/DroneSimulation-Part4",
-    "image": "img/projects/peno4.png"
-  },
-  {
-    "title": "DroneSimulation-Part3",
-    "text": "A simulation of a multiple drones which will fly in a three dimensional virtual testbed. The main object of the drones is to bring packages from one airport to another as fast as possible. This (intermediary) project will demonstrate a worst case example of the next project (DroneSimulation-Part4) of a series of projects.",
-    "keywords": "Java, Drone Simulator",
-    "date": "2018-05",
-    "url": "https://github.com/RubenPants/DroneSimulation-Part3",
-    "image": "img/projects/peno3.png"
-  },
-  {
-    "title": "DroneSimulation-Part2",
-    "text": "A simulation of a drone which will fly in a three dimensional virtual testbed. An array of unit cubes will be loaded inside the virtual testbed, the main objective of the drone is to collect all cubes as fast as possible (no order specified). No difference in task compared to DroneSimulation-Part1, but a significant difference in implementation and performance.",
-    "keywords": "Java, Drone Simulator",
-    "date": "2018-03",
-    "url": "https://github.com/RubenPants/DroneSimulation-Part2",
-    "image": "img/projects/peno1.png"
-  },
-  {
-    "title": "DroneSimulation-Part1",
-    "text": "A simulation of a drone which will fly in a three dimensional virtual testbed. An array of unit cubes will be loaded inside the virtual testbed, the main objective of the drone is to collect all cubes as fast as possible (no order specified).",
-    "keywords": "Java, Drone Simulator",
-    "date": "2017-12",
-    "url": "https://github.com/RubenPants/DroneSimulation-Part1",
-    "image": "img/projects/peno1.png"
-  },
-  {
-    "title": "Asteroids",
-    "text": "This project is an own implementation of the game Asteroids. This project consists out of two game-modes: one where you have to fight enemies and one where you have to destroy all asteroids. This was my <b>first Java project</b>.",
-    "keywords": "Java, Game",
-    "date": "2017-06",
-    "url": "https://github.com/RubenPants/Asteroids",
-    "image": "img/projects/asteroids.png"
-  }
+    {
+        "title": "BlenderCNN",
+        "text": "Examplementory repository to show both the potential and usage of Blender to generate data for Deep Learning projects.",
+        "keywords": [
+            "Python",
+            "Blender",
+            "Convolutional Neural Network",
+            "Image generation"
+        ],
+        "date": "October 2020",
+        "url": "https://rubenpants.github.io/BlenderCNN/",
+        "image": "blender.png"
+    },
+    {
+        "title": "PySnake",
+        "text": "Game of Snake implemented in Python controlled by a Deep Reinforcement Learning model.",
+        "keywords": [
+            "Python",
+            "Reinforcement Learning",
+            "Deep Learning"
+        ],
+        "date": "Juli 2020",
+        "url": "https://github.com/RubenPants/PySnake",
+        "image": "pysnake.png"
+    },
+    {
+        "title": "Evolvable Recurrent Neural Network",
+        "text": "Evolving Recurrent Neural Networks via the NeuroEvolution of Augmenting Topologies (NEAT) algorithm. This project performs the experiments I performed for my Master's thesis: An Empirical Investigation of Using Gated Recurrent Units in Evolved Robotic Controllers.",
+        "keywords": [
+            "Python",
+            "Thesis",
+            "Neuro-Evolution of Augmenting Topologies",
+            "Recurrent Neural Network"
+        ],
+        "date": "June 2020",
+        "url": "https://rubenpants.github.io/EvolvableRNN",
+        "image": "evolvable_rnn.gif"
+    },
+    {
+        "title": "TransPoemer",
+        "text": "Transforming regular text into a poem (limerick) by means of a Transformer neural network. This was one of my earlier Deep Learning projects and first contact witht the Transformer architecture.",
+        "keywords": [
+            "Python",
+            "Transformer",
+            "Deep Learning"
+        ],
+        "date": "May 2020",
+        "url": "https://github.com/RubenPants/TransPoemer",
+        "image": "transpoemer.png"
+    },
+    {
+        "title": "Robot Simulator 2D",
+        "text": "Custom low-level robot simulator, which evaluates evolved Recurrent Neural Networks (RNN) in a room-like maze environment. This repository was the initial repo of my Master's thesis (EvolvableRNN) but became deprecated with a change in focus.",
+        "keywords": [
+            "Python",
+            "Thesis",
+            "Neuro-Evolution of Augmenting Topologies"
+        ],
+        "date": "March 2020",
+        "url": "https://github.com/RubenPants/RobotSimulator2D",
+        "image": "robot_trace.png"
+    },
+    {
+        "title": "Traveling Salesman Problem",
+        "text": "Toolbox to evolve solutions via a Genetic Algorithm for the Traveling Salesman Problem, implemented in MatLab. This was the biggest project I've done in Matlab.",
+        "keywords": [
+            "Matlab",
+            "Salesman Problem",
+            "Neuro-Evolution",
+            "Genetic Algorithm"
+        ],
+        "date": "Januari 2020",
+        "url": "https://github.com/RubenPants/TravelingSalesmanProblem",
+        "image": "traveling_salesman.png"
+    },
+    {
+        "title": "Transfer Learning in Keras",
+        "text": "A walk-through / tutorial on Transfer Learning, using the Keras framework. This project was my first experience with the concept of Transfer Learning and Convolutional Neural Networks.",
+        "keywords": [
+            "Python",
+            "Keras",
+            "Machine Learning",
+            "Convolutional Neural Network"
+        ],
+        "date": "September 2019",
+        "url": "https://github.com/RubenPants/TransferLearningKerasDemo",
+        "image": "transfer.gif"
+    },
+    {
+        "title": "Gif-Creator",
+        "text": "A short code snippet that creates GIFs by concatenating images using Python's Pillow library. I created this project to help with the visualisations of the \"Transfer Learning in Keras\" project.",
+        "keywords": [
+            "Python",
+            "GIF",
+            "Pillow"
+        ],
+        "date": "August 2019",
+        "url": "https://github.com/RubenPants/GifCreator",
+        "image": "gif.gif"
+    },
+    {
+        "title": "Toledo Lecture Downloader",
+        "text": "A script to download web-videos by intervening the HTTP calls and storing the video-snippets locally.",
+        "keywords": [
+            "Java",
+            "HTTP",
+            "Networking"
+        ],
+        "date": "December 2018",
+        "url": "https://github.com/RubenPants/Toledo-Lecture-Downloader",
+        "image": "video_downloader.png"
+    },
+    {
+        "title": "Chess-Bot",
+        "text": "In this project, a Python bot is created that can play chess using the pyautogui and cv2 libraries. The algorithm behind the chessbot is the minimax-algorithm.",
+        "keywords": [
+            "Python",
+            "Chess",
+            "Bot"
+        ],
+        "date": "August 2018",
+        "url": "https://github.com/RubenPants/ChessBot",
+        "image": "chess.png"
+    },
+    {
+        "title": "Drone Simulation - Part 4",
+        "text": "A simulation of multiple drones that fly in a three dimensional virtual testbed. The main object of the drones is to bring packages from one airport to another as fast as possible, which implies that they have to communicate with one another to successfully solve this task. There are multiple airports and drones within the virtual testbed. This project was my Bachelor's thesis, which led to a perfect score (100%).",
+        "keywords": [
+            "Java",
+            "Drone Simulator"
+        ],
+        "date": "June 2018",
+        "url": "https://github.com/RubenPants/DroneSimulation-Part4",
+        "image": "peno4.png"
+    },
+    {
+        "title": "Drone Simulation - Part 3",
+        "text": "A simulation of multiple drones that fly in a three dimensional virtual testbed. This (intermediary) project demonstrates a worst case scenario of the \"Drone Simulation - Part 4\" project where all 18 of the drones have to deliver to the same airport simultaneously.",
+        "keywords": [
+            "Java",
+            "Drone Simulator"
+        ],
+        "date": "May 2018",
+        "url": "https://github.com/RubenPants/DroneSimulation-Part3",
+        "image": "peno3.png"
+    },
+    {
+        "title": "Drone Simulation - Part 2",
+        "text": "A simulation of a single drone that flies in a three dimensional virtual testbed. This project has the same goal as \"Drone Simulation - Part 1\" but solved it via a better implementation and resulted in a significantly better performance, which enabled the use of multiple drones simultaneously as done in \"Drone Simulation - Part 3\".",
+        "keywords": [
+            "Java",
+            "Drone Simulator"
+        ],
+        "date": "March 2018",
+        "url": "https://github.com/RubenPants/DroneSimulation-Part2",
+        "image": "peno1.png"
+    },
+    {
+        "title": "Drone Simulation - Part 1",
+        "text": "A simulation of a single drone that flies in a three dimensional virtual testbed. An array of unit cubes are loaded inside the virtual testbed, where the objective of the drone is to collect all cubes as fast as possible (no order specified).",
+        "keywords": [
+            "Java",
+            "Drone Simulator"
+        ],
+        "date": "December 2017",
+        "url": "https://github.com/RubenPants/DroneSimulation-Part1",
+        "image": "peno1.png"
+    },
+    {
+        "title": "Asteroids",
+        "text": "A custom implementation of the game \"Asteroids\". This project consists out of two game-modes: one where you have to fight enemies and one where you have to destroy all asteroids. This was my first Java project.",
+        "keywords": [
+            "Java",
+            "Game"
+        ],
+        "date": "June 2017",
+        "url": "https://github.com/RubenPants/Asteroids",
+        "image": "asteroids.png"
+    }
 ]

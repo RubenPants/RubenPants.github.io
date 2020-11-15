@@ -1,27 +1,46 @@
 [
-  {
-    "title": "Hello!",
-    "text": " I am <b>Ruben Broekx</b>, a {{age}}-year-old computer geek from Belgium. I am passionate about <b>Artificial Intelligence</b> and eager to learn, which is why I like to spend my time usefully with as many learning opportunities as possible. This led to several working experiences, as well as a handful of side projects that I've done in my spare time.\n<br><br>\nDespite my (relatively) young age, I brought several <b>projects</b> to a successful conclusion. To introduce myself to new concepts within the field of computer science, these projects often vary in the topic as well as implementation tools. Since the last two years, my main focus is on Artificial Intelligence. What I find interesting about this subject is its active community and the progress made in recent decades.\n<br><br>\nThis website not only functions as an introduction to myself, but also to showcase my projects. On <b>this page</b>, you'll find more information about myself. The <b>\"Projects\" page</b>, on the other hand, gives an overview of all my public projects found on GitHub. The <b>\"Curriculum Vitae\" link</b> found in the header directs you to my CV, which depicts a more formal view of who I am.",
-    "image": "img/me.jpeg"
-  },
-  {
-    "title": "Education",
-    "text": "<h3>Master</h3>\n<p>\nI did the master of Computer Science at the KU Leuven, with a <b>major</b> in Artificial Intelligence, which I finished with a Magna Cum Laude. My <b>thesis</b>, for which I scored 92.5%, investigated how to use recurrent units (specifically the Gated Recurrent Unit) in neuroevolution.\n</p>\n<h3>Bachelor</h3>\n<p>\nI also did my bachelor at the KU Leuven, following a mixed Bachelor of <b>Computer Science</b> and <b>Electrical Engineering</b>, which I finished with a Cum Laude. My Bachelor's thesis was a project about a distributed package delivery system (see Projects), for which I achieved a score of 100%.\n</p>\n<h3>High School</h3>\nI went to Don Bosco Hechtel during my high school times. In here, I followed <b>mathematics sciences</b>, with eight hours of math per week.",
-    "image": "img/education.jpg"
-  },
-  {
-    "title": "Experience",
-    "text": "<p>Although most of my time is spent on my education, I try to get a taste of relevant working experience where possible. This is because I learn most when surrounded by people that are experts in the field who can answer each of my questions.</p>\n<h2>Nokia Bell Labs</h2>\n<p>My most notable working experience is at Nokia Bell Labs (Antwerp), which was during a nine-week internship. During this period, I developed a <b>code summarization artificial neural network</b>. The task to solve was to create a single sentence summary of a small Python code snippet. Throughout this internship, I gained knowledge about recurrent neural networks, natural language processing tasks, and the Keras framework.</p>\n<h2>KU Leuven</h2>\n<p>I pursued two student jobs - both as a <b>teaching assistant</b> - at the KUL, this throughout my master's programme. In the first year of my master, I helped to assist the Bachelor's thesis. During the second year, I was a teaching assistant for an informatics course which taught first bachelors students the fundamentals of programming.</p>\n<h2>SoundTalks NV</h2>\nDuring the summer vacation between my Bachelor and master, I worked at SoundTalks NV as a Python <b>back end developer</b>, using the Django REST Framework. This was the first working experience I had related to computer science.",
-    "image": "img/experience.jpg"
-  },
-  {
-    "title": "Achievements",
-    "text": "My proudest achievement thus far is graduating with a <b>Magna Cum Laude</b> from the Master program of Computer Science - Artificial Intelligence at the KU Leuven.<br><br>A second achievement for which I'm proud of relates to the previous, which is the score of 92.5% I obtained on my <b>Master's thesis</b>.<br><br>A last notable achievement I want to mention is the perfect score (100%) I obtained on my <b>Bachelor's thesis</b>. This result allowed me to work as a teaching assistant for the KUL to help assist the upcoming Bachelor's thesis.",
-    "image": "img/achievement.jpg"
-  },
-  {
-    "title": "Projects",
-    "text": "In my spare time, I don't like to sit still. As stated earlier, I'm eager to learn new things, which is why I often start a new side-project. These projects vary both in their topic (AI, simple programming algorithms, or even this website you're currently on), using an extensive catalogue of programming languages and tools. More information on each of these projects is found on the <b>\"Projects\" page<b/>.",
-    "image": "img/programming.jpg"
-  }
+    {
+        "title": "Hi!",
+        "paragraphs": [
+            "I am Ruben Broekx, a {{age}}-year-old computer geek from Belgium. I'm passionate about Artificial Intelligence and eager to learn, which is why I like to spend my time learning about and experimenting with new concepts within the field.",
+            "I only recently started working at <a href='https://radix.ai/' target='_blank'>Radix.ai</a>, a young Artificial Intelligence company where robust AI-powered software solutions qre invented, designed and developed. The main focus within the company is on Natural Language Processing.",
+            "Outside from work, I like to invest my time discovering new AI technologies. Since I'm convinced that the best way to learn about new concepts is by getting your hands dirty, I've brought several projects to a successful conclusion over the years.",
+            "This website shows who I am as well as the projects I've been working on in the past. On this page, you'll find more information about myself. Next, a <i>Projects</i> page gives an overview of all my personal projects found on GitHub. If interested, you can view my Curriculum Vitae as well, as indicated in the menu on the left."
+        ],
+        "image": "profile_picture.jpg"
+    },
+    {
+        "title": "Work Experience",
+        "paragraphs": [
+            "<h2 style='color: #424242;'>Radix.ai</h2> As of August 2020, I started my first job at <a href='https://radix.ai/' target='_blank'>Radix.ai</a>. Since then, I brought several projects to a successful conclusion, which all centered around Natural Language Processing. The most notable projects were (1) an algorithm that measures the global sentiment of the Flemish population by analysing Twitter data, and (2) an algorithm that automatically extracted useful information such as job description, expectations, etc. from job vacancies scraped from the web.",
+            "<h2 style='color: #424242;'>Nokia Bell Labs</h2> My most notable work experience as a student was at <a href='https://www.bell-labs.com/connect/global-locations/Antwerp-belgium/' target='_blank'>Nokia Bell Labs (Antwerp)</a>, which was during a nine-week internship. During this period, I developed a code summarization artificial neural network. The task given to me was to create a single sentence summary for small Python code snippets. Throughout this internship, I gained knowledge about recurrent neural networks, natural language processing tasks, and the Keras framework.",
+            "<h2 style='color: #424242;'>KU Leuven</h2> I pursued two student jobs - both as a teaching assistant - at the <a href='https://wms.cs.kuleuven.be/cs/english' target='_blank'>KU Leuven</a> while I was in the Master's programme. In the first year of my Master, I assisted Bachelor students with their thesis. In the second year of my Master, I was a teaching assistant for an informatics course which taught first bachelors students the fundamentals of programming.",
+            "<h2 style='color: #424242;'>SoundTalks NV</h2> During the summer vacation between my Bachelor and Master, I worked at <a href='https://www.soundtalks.com/' target='_blank'>SoundTalks NV</a> as a Python back end developer, using the Django REST Framework. This was the first working experience I had related to Computer Science."
+        ],
+        "image": "experience.jpg"
+    },
+    {
+        "title": "Education",
+        "paragraphs": [
+            "<h2 style='color: #424242;'>Master</h2> I pursued a Master in Computer Science Master at the KUL, with a major in Artificial Intelligence, from which I graduated with greatest distinction. My thesis investigated Recurrent Units - specifically the Gated Recurrent Unit - and how these could be applied efficiently in evolved neural networks.",
+            "<h2 style='color: #424242;'>Bachelor</h2> I also did my bachelor at the KUL, following a mixed Bachelor of Computer Science and Electrical Engineering, from which I graduated with distinction.",
+            "<h2 style='color: #424242;'>High School</h2> I went to Don Bosco Hechtel during my High School days. Here, I followed <i>Mathematics and Sciences</i>, with eight hours of math per week."
+        ],
+        "image": "education.jpg"
+    },
+    {
+        "title": "Achievements",
+        "paragraphs": [
+            "My proudest achievement thus far is my Master's thesis, for which I obtained a score of 92.5%. The results of my thesis were used in a scientific paper later on, which I helped to write.",
+            "Another, rather similar, achievement was when I received a perfect score (100%) on my Bachelor's thesis. This result allowed me to work as a teaching assistant for the KUL where I helped assist the upcoming Bachelor's thesis."
+        ],
+        "image": "achievement.jpg"
+    },
+    {
+        "title": "Personal Projects",
+        "paragraphs": [
+            "In my spare time, I don't like to sit still. As stated earlier, I'm eager to learn new things which is why I often start new side-projects. These projects vary both in their topic - Artificial Intelligence, simple programming solutions, or even the website you're currently on - using an extensive catalogue of programming languages and tools. More information on each of these projects is found on the <i>Projects</i> page, found in the menu on the left."
+        ],
+        "image": "programming.jpg"
+    }
 ]

@@ -1,5 +1,18 @@
 [
     {
+        "title": "SemiSupervisedClustering",
+        "text": "Cluster context-less embedded language data in a semi-supervised manner.",
+        "keywords": [
+            "Python",
+            "NLP",
+            "Embeddings",
+            "Semi-Supervised Clustering"
+        ],
+        "date": "March 2021",
+        "url": "https://github.com/RubenPants/SemiSupervisedClustering",
+        "image": "projector_kul.png"
+    },
+    {
         "title": "BlenderCNN",
         "text": "Examplementory repository to show both the potential and usage of Blender to generate data for Deep Learning projects.",
         "keywords": [

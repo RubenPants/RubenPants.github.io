@@ -1,5 +1,17 @@
 [
     {
+        "title": "NumberBatchWrapper",
+        "text": "Wrapper around the ConceptNet Number Batch library to improve inference performance.",
+        "keywords": [
+            "Python",
+            "NLP",
+            "Embeddings"
+        ],
+        "date": "March 2021",
+        "url": "https://github.com/RubenPants/NumberBatchWrapper",
+        "image": "numberbatchwrapper.png"
+    },
+    {
         "title": "SemiSupervisedClustering",
         "text": "Cluster context-less embedded language data in a semi-supervised manner.",
         "keywords": [
@@ -8,7 +20,7 @@
             "Embeddings",
             "Semi-Supervised Clustering"
         ],
-        "date": "March 2021",
+        "date": "Februari 2021",
         "url": "https://github.com/RubenPants/SemiSupervisedClustering",
         "image": "projector_kul.png"
     },

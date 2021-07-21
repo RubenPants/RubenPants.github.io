@@ -1,5 +1,18 @@
 [
     {
+        "title": "Few-Shot Face Classification",
+        "text": "Library to recognise and classify faces.",
+        "keywords": [
+            "Python",
+            "Vision",
+            "Embeddings",
+            "Facenet-PyTorch"
+        ],
+        "date": "June 2021",
+        "url": "https://github.com/RubenPants/few-shot-face-classification",
+        "image": "fewshot_face_classification.png"
+    },
+    {
         "title": "NumberBatchWrapper",
         "text": "Wrapper around the ConceptNet Number Batch library to improve inference performance.",
         "keywords": [

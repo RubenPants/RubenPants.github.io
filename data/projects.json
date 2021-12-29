@@ -1,5 +1,18 @@
 [
     {
+        "title": "EDBSCAN",
+        "text": "Enforced Density-Based Spatial Clustering of Applications with Noise..",
+        "keywords": [
+            "Python",
+            "Cython",
+            "Clustering",
+            "DBSCAN"
+        ],
+        "date": "December 2021",
+        "url": "https://github.com/RubenPants/EDBSCAN",
+        "image": "edbscan.png"
+    },
+    {
         "title": "Few-Shot Face Classification",
         "text": "Library to recognise and classify faces.",
         "keywords": [
